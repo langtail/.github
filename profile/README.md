@@ -2,7 +2,7 @@
 
 Langtail is the low-code platform that helps you go from LLM prototype to production 10x faster. Rapidly iterate, test, and refine your prompts with our powerful suite of tools built for collaboration.
 
-## News tool: Macaly
+## New tool: Macaly
 
 Our new code generation tool, working well with github. Think it. Say it. Macaly it. Built with Langtail!
 
