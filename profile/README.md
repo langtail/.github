@@ -4,9 +4,7 @@ Langtail is the low-code platform that helps you go from LLM prototype to produc
 
 ## New tool: Macaly
 
-Our new code generation tool, working well with github. Think it. Say it. Macaly it. Built with Langtail!
-
-[Macaly.com](https://www.macaly.com)
+Our new code generation tool, working well with GitHub. Think it. Say it. Macaly it: [Macaly.com](https://www.macaly.com)
 
 ## Why Langtail? 
 
